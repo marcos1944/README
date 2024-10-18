@@ -16,7 +16,7 @@ Otra lista ordenada:
 - Importante
 - Recordar
 3. Tercer paso
-![Un perro](perro.jpg)
+![Un perro](Perro.jpg)
 
 ## Más cositas
 Enlace a [La web del kernel](https:/kernel.org).
